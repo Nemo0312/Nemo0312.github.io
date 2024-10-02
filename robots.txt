@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Nemo0312.github.io/sitemap.xml
+Sitemap: https://nemo0312.github.io/sitemap.xml
