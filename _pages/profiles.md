@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: Involvments
-description: members of the lab or group
+title: Involvements
+description: Academic involvements
 nav: true
 nav_order: 2
 
@@ -19,6 +19,12 @@ profiles:
   - align: left
     image: dietcomp.png
     content: dietcomp.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>University Of Oklahoma</p>
+  - align: right
+    image: ouswim.jpeg
+    content: ouswim.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>University Of Oklahoma</p>
