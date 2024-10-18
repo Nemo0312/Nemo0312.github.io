@@ -2,7 +2,7 @@
 layout: page  
 title: Sequelize Model Generator  
 description: A Tool for Automatic Sequelize Model Creation  
-img: assets/img/sequelize-model-generator.jpg  
+img: assets/img/sequelize-model-generator.png 
 importance: 1  
 category: work  
 related_publications: false  
@@ -14,10 +14,10 @@ This project showcases my proficiency in backend development and software engine
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/model-generator-interface.jpg" title="Model Generator Interface" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/model-generator-interface.png" title="Model Generator Interface" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/generated-model-example.jpg" title="Generated Sequelize Model Example" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/generated-model-example.png" title="Generated Sequelize Model Example" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
