@@ -30,5 +30,3 @@ By utilizing this Sequelize Model Generator, developers can expedite the setup o
 You can learn more about the [Sequelize Model Generator here](https://github.com/Nemo0312/Sequelize-Model-Generator).
 
 --- 
-
-Feel free to modify the content to better reflect your specific contributions or details about the project!
